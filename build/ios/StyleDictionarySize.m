@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 29 Jun 2021 21:38:00 GMT
+// Generated on Wed, 30 Jun 2021 15:50:35 GMT
 
 
 #import "StyleDictionarySize.h"
